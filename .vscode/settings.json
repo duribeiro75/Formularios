@@ -1,0 +1,13 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "all",
+
+  "workbench.editor.enablePreview": false,
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "angular.enable-strict-mode-prompt": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
